@@ -1,9 +1,9 @@
 {
   "name": "python-isort",
   "main": "./lib/index",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "Organize Python Imports using Isort",
-  "repository": "https://github.com/bh/atom-python-isort",
+  "repository": "https://github.com/monkpit/atom-python-isort",
   "license": "MIT",
   "engines": {
     "atom": ">=0.185.0 <2.0.0"
